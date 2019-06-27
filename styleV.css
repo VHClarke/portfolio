@@ -1,0 +1,15 @@
+.tm-portfolio-name {
+    align-items: center;
+    text-align: center;
+}
+
+section > p {
+    text-align: justify;
+}
+
+dl, ol, ul {
+    text-align: justify;
+}
+
+
+/* Social Media Icons */
